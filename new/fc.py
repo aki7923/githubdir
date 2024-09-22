@@ -1,5 +1,5 @@
 a = "hello"
 b = "world"
-c = "hahaha"
+print("asdf")
+print("12345")
 print(a+b)
-print(c)
