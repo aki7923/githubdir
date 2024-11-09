@@ -1,5 +1,6 @@
 import cv2
 
+
 # 讀取此目錄中的(也就是路徑./)檔案lena.bmp，預設是RGB，因此一個像素有三個亮度值
 lena1 = cv2.imread('lena.bmp')
 
