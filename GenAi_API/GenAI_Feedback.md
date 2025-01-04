@@ -1,13 +1,13 @@
-# GenAI Learning Feedback
+# GenAI學習心得
 
-**Name**: 璨晶  
-**Date**: 12/22/2024  
+**姓名**: 璨晶  
+**日期**: 12/22/2024  
 
 ---
 
-## GenAI Learning History
+## GenAI歷次學習內容
 
-|Date|Topic|Course Summary|
+|日期|主題|課程簡介|
 |:--:|:--:|:--|
 |10/27|GenAI_intro|Introduce the concepts of GenAI and models . Explain how to train and improve models, as well as demonstrate how to use Colab .|
 |11/03|GenAI_LLM|Introduce the concept of LLM . Provide examples of well-known LLM models, introduce MLLM, and practice uploading files to GitHub.|
